@@ -45,14 +45,14 @@ startLevel = 1
 # ------
 [author]
 name = "Seiken Shibata"
-bio = "welcomw to **kanakanho's world**"
+bio = "Welcomw to **kanakanho's world**"
 job = "university student"
 location = "Japan/Aichi"
 # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-gravatarEmail = "seikenshibata@gmail.com"
+# gravatarEmail = "seikenshibata@gmail.com"
 # Your profile picture
 # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-picture = "https://pbs.twimg.com/profile_images/1564990806124965888/GiGo1wel_400x400.jpg"
+picture = "images/icon.jpg"
 # picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
 # Your Twitter username without the @. E.g : thibaudlepretre
 twitter = "kikikomomi"
@@ -99,8 +99,15 @@ identifier = "github"
 name = "GitHub"
 pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
 url = "https://github.com/kanakanho"
+[[menu.links]]
+weight = 2
+identifier = "twitter"
+name = "Twitter"
+pre = "<i class=\"sidebar-button-icon fab fa-lg fa-twitter\" aria-hidden=\"true\"></i>"
+url = "https://twitter.com/Shiba_ao_"
+
 # [[menu.links]]
-# weight = 2
+# weight = 3
 # identifier = "stackoverflow"
 # name = "Stack Overflow"
 # pre = "<i class=\"sidebar-button-icon fab fa-lg fa-stack-overflow\" aria-hidden=\"true\"></i>"
@@ -377,7 +384,7 @@ pagerDirection = "first"
 #  class: st-search-show-outputs
 [params.header.rightLink]
 class = ""
-icon = ""
+icon = "images/icon.jpg"
 url = "/#about"
 
 # --------------------
