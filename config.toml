@@ -15,7 +15,7 @@
 baseURL = "https://kanakanho.vercel.app/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Hugo tranquilpeak theme"
+title = "kanakanho blog1"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
@@ -358,7 +358,7 @@ enable = false
 # repo =
 # See all options: https://github.com/gitalk/gitalk#options
 [params.comment.gitalk.options]
-language = "en"
+language = "ja"
 perPage = 10
 distractionFreeMode = false
 enableHotKey = true
