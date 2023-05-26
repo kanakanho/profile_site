@@ -52,7 +52,7 @@ location = "Japan/Aichi"
 # gravatarEmail = "seikenshibata@gmail.com"
 # Your profile picture
 # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-picture = "images/icon.jpg"
+picture = "/img/icon.jpg"
 # picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
 # Your Twitter username without the @. E.g : thibaudlepretre
 twitter = "kikikomomi"
@@ -193,7 +193,7 @@ url = "/#about"
 # Current image is on AWS S3 and delivered by AWS CloudFront.
 # Otherwise put your image, for example `cover.jpg` in folder `static/images/`,
 # and use relative url : `images/cover.jpg`
-coverImage = "images/cover.jpg"
+coverImage = "/img/evening.jpg"
 
 # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
 imageGallery = true
@@ -210,7 +210,7 @@ thumbnailImagePosition = "bottom"
 autoThumbnailImage = true
 
 # Your favicon path, default is "/favicon.png"
-favicon = "https://pbs.twimg.com/profile_images/1564990806124965888/GiGo1wel_400x400.jpg"
+favicon = "img/icon.png"
 
 # ------------------
 # External resources
@@ -384,7 +384,7 @@ pagerDirection = "first"
 #  class: st-search-show-outputs
 [params.header.rightLink]
 class = ""
-icon = "images/icon.jpg"
+icon = "/img/icon.jpg"
 url = "/#about"
 
 # --------------------
