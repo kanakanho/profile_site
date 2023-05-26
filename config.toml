@@ -14,7 +14,7 @@
 
 baseURL = "https://kanakanho.vercel.app/"
 languageCode = "en-us"
-defaultContentLanguage = "en-us"
+defaultContentLanguage = "ja"
 title = "kanakanho blog"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
@@ -44,17 +44,18 @@ startLevel = 1
 # Author
 # ------
 [author]
-name = "Firstname Lastname"
-bio = "Super bio with markdown support **COOL**"
-job = "Your job title"
-location = "France"
+name = "Seiken Shibata"
+bio = "welcomw to **kanakanho's world**"
+job = "university student"
+location = "Japan/Aichi"
 # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-gravatarEmail = "thibaud.lepretre@gmail.com"
+gravatarEmail = "seikenshibata@gmail.com"
 # Your profile picture
 # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
+picture = "https://pbs.twimg.com/profile_images/1564990806124965888/GiGo1wel_400x400.jpg"
+# picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
 # Your Twitter username without the @. E.g : thibaudlepretre
-# twitter = "thibaudlepretre"
+twitter = "kikikomomi"
 # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
 # googlePlus = "+ThibaudLepretre"
 
@@ -97,20 +98,20 @@ weight = 1
 identifier = "github"
 name = "GitHub"
 pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
-url = "https://github.com/kakawait"
-[[menu.links]]
-weight = 2
-identifier = "stackoverflow"
-name = "Stack Overflow"
-pre = "<i class=\"sidebar-button-icon fab fa-lg fa-stack-overflow\" aria-hidden=\"true\"></i>"
-url = "https://stackoverflow.com/users/636472/kakawait"
+url = "https://github.com/kanakanho"
+# [[menu.links]]
+# weight = 2
+# identifier = "stackoverflow"
+# name = "Stack Overflow"
+# pre = "<i class=\"sidebar-button-icon fab fa-lg fa-stack-overflow\" aria-hidden=\"true\"></i>"
+# url = "https://stackoverflow.com/users/636472/kakawait"
 
-[[menu.misc]]
-weight = 1
-identifier = "rss"
-name = "RSS"
-pre = "<i class=\"sidebar-button-icon fas fa-lg fa-rss\" aria-hidden=\"true\"></i>"
-url = "/index.xml"
+# [[menu.misc]]
+# weight = 1
+# identifier = "rss"
+# name = "RSS"
+# pre = "<i class=\"sidebar-button-icon fas fa-lg fa-rss\" aria-hidden=\"true\"></i>"
+# url = "/index.xml"
 
 # -------------
 # Customization
@@ -119,7 +120,7 @@ url = "/index.xml"
 # -----------
 # Description
 # -----------
-description = "Hugo tranquilpeak theme demo"
+description = "kanakanho blog"
 
 # ------------------
 # Syntax highlighter
@@ -135,7 +136,7 @@ syntaxHighlighter = "highlight.js"
 # You must use date format used by Go Time package https://golang.org/pkg/time/
 # Months (not work with short month like "jan", "feb", etc) are translated if translation exists on i18n folders
 # Default format is: January 2, 2006
-#  dateFormat = "2 January 2006"
+dateFormat = "Januar 2 2006"
 
 # ---------------------------
 # Posts related configuration
@@ -152,7 +153,7 @@ hierarchicalCategories = true
 
 # Display `Next` on left side of the pagination, and `Prev` on right side one.
 # If you set this value to `true`, these positions swap.
-#  swapPaginator = true
+swapPaginator = true
 
 # ---------------------
 # Sidebar configuration
@@ -173,8 +174,8 @@ hierarchicalCategories = true
 sidebarBehavior = 1
 
 # Customize link of author avatar in sidebar
-#  [params.sidebar.profile]
-#    url = "/#about"
+#[params.sidebar.profile]
+url = "/#about"
 
 # -------------------
 # Media configuration
@@ -202,7 +203,7 @@ thumbnailImagePosition = "bottom"
 autoThumbnailImage = true
 
 # Your favicon path, default is "/favicon.png"
-#  favicon = "/favicon.png"
+favicon = "https://pbs.twimg.com/profile_images/1564990806124965888/GiGo1wel_400x400.jpg"
 
 # ------------------
 # External resources
@@ -292,10 +293,11 @@ defer = true
 # Comment and uncomment to enable or disable sharing options
 # If you wanna add a sharing option, read user documentation :
 # Tranquilpeak configuration > Theme configuration > sharing-options
-[[params.sharingOptions]]
-name = "Facebook"
-icon = "fab fa-facebook-square"
-url = "https://www.facebook.com/sharer/sharer.php?u=%s"
+
+# [[params.sharingOptions]]
+# name = "Facebook"
+# icon = "fab fa-facebook-square"
+# url = "https://www.facebook.com/sharer/sharer.php?u=%s"
 
 [[params.sharingOptions]]
 name = "Twitter"
@@ -308,10 +310,10 @@ url = "https://twitter.com/intent/tweet?text=%s"
 #    icon = "fab fa-whatsapp"
 #    url = "https://wa.me/?text=%s"
 
-[[params.sharingOptions]]
-name = "Linkedin"
-icon = "fab fa-linkedin"
-url = "https://www.linkedin.com/sharing/share-offsite/?url=%s"
+# [[params.sharingOptions]]
+# name = "Linkedin"
+# icon = "fab fa-linkedin"
+# url = "https://www.linkedin.com/sharing/share-offsite/?url=%s"
 
 #  [[params.sharingOptions]]
 #    name = "Reddit"
