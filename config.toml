@@ -143,7 +143,7 @@ syntaxHighlighter = "highlight.js"
 # You must use date format used by Go Time package https://golang.org/pkg/time/
 # Months (not work with short month like "jan", "feb", etc) are translated if translation exists on i18n folders
 # Default format is: January 2, 2006
-dateFormat = "Januar 2 2006"
+dateFormat = "January 2 2006"
 
 # ---------------------------
 # Posts related configuration
