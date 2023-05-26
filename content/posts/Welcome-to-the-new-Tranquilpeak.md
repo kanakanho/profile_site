@@ -18,7 +18,7 @@ metaAlignment: center
 本日より逐次、成果物や得た技術的な知見についてブログにまとめていきます。
 <!--more-->
 
-![Tranquilpeak](/img/lines.png)
+![Tranquilpeak](/img/lines.jpg)
 
 <!-- {{< toc >}} -->
 
