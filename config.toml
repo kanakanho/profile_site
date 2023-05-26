@@ -15,7 +15,7 @@
 baseURL = "https://kanakanho.vercel.app/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "kanakanho blog1"
+title = "kanakanho blog"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
