@@ -35,8 +35,8 @@ metaAlignment: center
 
 # Contact&Links
 Email   :  seikenshibata@gmail.com  
-github  :  [kanakanho]("https://github.com/kanakanho")  
-twitter :  [@Shiba_ao]("https://twitter.com/Shiba_ao_")  
+github  :  [kanakanho](https://github.com/kanakanho)  
+twitter :  [@Shiba_ao](https://twitter.com/Shiba_ao_)  
 
 
 
