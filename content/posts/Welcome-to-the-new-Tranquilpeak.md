@@ -14,7 +14,7 @@ thumbnailImage: /img/evening_resize.jpg
 coverImage: /img/evening.jpg
 metaAlignment: center
 ---
-初めまして。柴田です。本日よりブログを始めました。  
+初めまして。kanakanhoです。本日よりブログを始めました。  
 本日より逐次、成果物や得た技術的な知見についてブログにまとめていきます。
 <!--more-->
 
@@ -23,7 +23,7 @@ metaAlignment: center
 <!-- {{< toc >}} -->
 
 # 挨拶
-みなさまどうも、柴田青賢でございます。  
+みなさまどうも、kanakanhoでございます。  
 初めましての方は初めまして、久しぶりの方はお久しぶり。  
 本日よりブログの更新をしていくこととなりましたのでアナウンスをさせていただきます。  
 どうぞ今後ともよろしくお願いたします。  
