@@ -11,8 +11,8 @@ keywords:
   - ハッカソン
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
-thumbnailImage: /img/paper_app_title.jpg
-coverImage: /img/paper_app_title.jpg
+thumbnailImage: /img/paper_app_title.png
+coverImage: /img/paper_app_title.png
 metaAlignment: center
 ---
 
@@ -20,7 +20,7 @@ metaAlignment: center
 
 <!--more-->
 
-[title](/img/paper_app_title.jpg)
+[powerpoint](/img/paper_app_title.png)
 
 <!-- {{< toc >}} -->
 
@@ -34,7 +34,7 @@ metaAlignment: center
 - チーム：「完全に理解した」
 - アプリ：「かみあぷり」
 
-[画像](/img/paper_app_image.jpg)
+[app](/img/paper_app_image.png)
 
 紙を破く音を検知するとアプリがパソコンを操作するというアプリです。
 
