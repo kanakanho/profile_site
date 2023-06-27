@@ -11,8 +11,8 @@ keywords:
   - ハッカソン
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
-thumbnailImage: /img/paper_app_title.png
-coverImage: /img/paper_app_title.png
+thumbnailImage: /img/evening_resize.jpg
+coverImage: /img/evening_resize.jpg
 metaAlignment: center
 ---
 
