@@ -11,14 +11,16 @@ keywords:
   - ハッカソン
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
-thumbnailImage: /img/evening_resize.jpg
-coverImage: /img/evening.jpg
+thumbnailImage: /img/paper_app_title.jpg
+coverImage: /img/paper_app_title.jpg
 metaAlignment: center
 ---
 
 6/17 に福岡で開催された技育 CMAP キャラバンハッカソン vol.2 に出場し、最優秀賞をいただきました。
 
 <!--more-->
+
+[title](/img/paper_app_title.jpg)
 
 <!-- {{< toc >}} -->
 
@@ -32,17 +34,20 @@ metaAlignment: center
 - チーム：「完全に理解した」
 - アプリ：「かみあぷり」
 
+[画像](/img/paper_app_image.jpg)
+
 紙を破く音を検知するとアプリがパソコンを操作するというアプリです。
 
-アプリケーションの詳しい説明はこちらにあります
+アプリケーションの詳しい説明はこちらにあります  
 [技育 CAMP キャラバンで最優秀賞を取ったアプリについて -紙を破って PC を操作するアプリ- @SatooRu65536(佐藤 さとる)](https://qiita.com/SatooRu65536/items/1399c899813b8507572b)
 
-アプリケーションはこちらからダウンロードできます（Mac 専用アプリ）
+アプリケーションはこちらからダウンロードできます（Mac 専用アプリ）  
 [ダウンロードリンク](https://github.com/SystemEngineeringTeam/geekcamp-caravan-2023-vol2)
 
 # 感想
 
-大学に入ってから本格的に情報の勉強を始めて、アウトプットがしてみたい！ということで参加したハッカソンでしたが、最優秀賞をいただけていい体験となりました。発表中、発表後の懇親会ともに好印象を持っていただけて嬉しく思いました。
+大学に入ってから本格的に情報の勉強を始めて、アウトプットがしてみたい！ということで参加したハッカソンでしたが、最優秀賞をいただけて嬉しいです。発表中、発表後の懇親会ともに好印象を持っていただけて嬉しく思いました。  
+しかし他のチームの発表を技術力としてはまだまだだと感じました。これからも頑張っていきたいです。
 
 # Contact&Links
 
