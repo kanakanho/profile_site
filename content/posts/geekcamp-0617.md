@@ -41,7 +41,7 @@ metaAlignment: center
 **紙を破く音**を検知するとアプリがパソコンを操作するというアプリです。
 
 **アプリケーションの詳しい説明はこちら**  
-[技育 CAMP キャラバンで最優秀賞を取ったアプリについて -紙を破って PC を操作するアプリ- @SatooRu65536(佐藤 さとる)](https://qiita.com/SatooRu65536/items/1399c899813b8507572b)
+[技育キャンプキャラバンハッカソン vol.2 - SatooRu's Profile](https://satooru.me/posts/activity-report/2023-06/geekcamp-caravan-vol2/)
 
 アプリケーションはこちらからダウンロードできます（Mac 専用アプリ）  
 [ダウンロードリンク](https://github.com/SystemEngineeringTeam/geekcamp-caravan-2023-vol2)
