@@ -11,8 +11,8 @@ keywords:
   - ハッカソン
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
-thumbnailImage: /img/paper_app_title.png
-coverImage: /img/evening_blue.jpg
+thumbnailImage: /img/geekcamp-0617/paper_app_title.png
+coverImage: /img/geekcamp-0617/evening_blue.jpg
 metaAlignment: center
 ---
 
@@ -20,7 +20,7 @@ metaAlignment: center
 
 <!--more-->
 
-![powerpoint](/img/paper_app_title.png)
+![powerpoint](/img/geekcamp-0617/paper_app_title.png)
 
 <!-- {{< toc >}} -->
 
@@ -36,7 +36,7 @@ metaAlignment: center
 
 ##### アプリ：「かみあぷり」
 
-![](/img/paper_app_image.png)
+![](/img/geekcamp-0617/paper_app_image.png)
 
 **紙を破く音**を検知するとアプリがパソコンを操作するというアプリです。
 
