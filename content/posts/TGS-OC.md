@@ -11,7 +11,7 @@ keywords:
   - AIT
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
-thumbnailImage: /img/TGS/booth.jpg
+thumbnailImage: /img/TGS-OC/booth.jpg
 coverImage: /img/evening_blue.jpg
 metaAlignment: center
 ---
@@ -20,7 +20,7 @@ metaAlignment: center
 
 <!--more-->
 
-![powerpoint](/img/TGS/booth.jpg)
+![powerpoint](/img/TGS-OC/booth.jpg)
 
 <!-- {{< toc >}} -->
 
@@ -36,10 +36,10 @@ metaAlignment: center
 
 実際に中華鍋を触っていただけて、中華鍋という特殊なインターフェースならではの課題が見えてきました。面白いと多くの方に言っていただけて、ゲーム作りのモチベーションになりました。9 月の Tokyo Game Show に向けてブラッシュアップを進めていきたいと思います。
 
-![](/img/TGS/work.jpg)
+![](/img/TGS-OC/work.jpg)
 
 # Contact&Links
 
-Email : kahoshibakichi@gmail.com  
+Email : seikenshibata@gmail.com  
 github : [kanakanho](https://github.com/kanakanho)  
 twitter : [@Shiba_ao](https://twitter.com/Shiba_ao_)

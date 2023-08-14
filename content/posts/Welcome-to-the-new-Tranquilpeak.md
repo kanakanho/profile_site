@@ -2,7 +2,7 @@
 title: "ブログを始めます"
 date: 2023-05-26
 categories:
-  - releases
+  - report
 tags:
   - web
 keywords:
@@ -38,6 +38,6 @@ metaAlignment: center
 
 # Contact&Links
 
-Email : kahoshibakichi@gmail.com  
+Email : seikenshibata@gmail.com  
 github : [kanakanho](https://github.com/kanakanho)  
 twitter : [@Shiba_ao](https://twitter.com/Shiba_ao_)

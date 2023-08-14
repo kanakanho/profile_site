@@ -103,19 +103,26 @@ name = "Twitter"
 pre = "<i class=\"sidebar-button-icon fab fa-lg fa-twitter\" aria-hidden=\"true\"></i>"
 url = "https://twitter.com/Shiba_ao_"
 
-# [[menu.links]]
-# weight = 3
-# identifier = "stackoverflow"
-# name = "Stack Overflow"
-# pre = "<i class=\"sidebar-button-icon fab fa-lg fa-stack-overflow\" aria-hidden=\"true\"></i>"
-# url = "https://stackoverflow.com/users/636472/kakawait"
+[[menu.links]]
+weight = 3
+identifier = "qiita"
+name = "qiita"
+pre = "<i class=\"sidebar-button-icon fab fa-lg fa-qiita\" aria-hidden=\"true\"></i>"
+url = "https://qiita.com/kanakanho"
+
+[[menu.links]]
+weight = 4
+identifier = "zenn"
+name = "Zenn"
+pre = "<i class=\"sidebar-button-icon fas fa-lg fa-zenn\" aria-hidden=\"true\"></i>"
+url = "https://zenn.dev/kanakanho"
 
 # [[menu.misc]]
-# weight = 1
-# identifier = "rss"
-# name = "RSS"
-# pre = "<i class=\"sidebar-button-icon fas fa-lg fa-rss\" aria-hidden=\"true\"></i>"
-# url = "/index.xml"
+# weight = 4
+# identifier = "zenn"
+# name = "Zenn"
+# pre = "<i class=\"sidebar-button-icon fas fa-lg fa-zenn\" aria-hidden=\"true\"></i>"
+# url = "https://zenn.dev/kanakanho"
 
 # -------------
 # Customization
