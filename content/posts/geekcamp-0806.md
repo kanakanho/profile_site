@@ -2,13 +2,13 @@
 title: "技育CMAPvol.7で企業賞をいただきました"
 date: 2023-08-06
 categories:
-  - hackson
+    - hackson
 tags:
-  - app
-  - hackson
+    - app
+    - hackson
 keywords:
-  - 技育CAMP
-  - ハッカソン
+    - 技育CAMP
+    - ハッカソン
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
 thumbnailImage: /img/wisdom-tree/top.png
@@ -41,7 +41,7 @@ metaAlignment: center
 私たちは **wisdom Tree** というアプリを開発しました。  
 **wisdom Tree** は情報系の学びを得るためのアプリで、それぞれの情報系の単語の結びつきをたどって自分の知らない情報を見つけられます。  
 アプリはこちらのリンクから試せます。  
-[**wisdomTree**](https://wisdom-tree.vercel.app/)  
+[**wisdomTree**](https://wisdomtree.vercel.app/)  
 ※現在のリンクは技育展にてブラッシュアップされたものに変わっています。
 
 ![](/img/wisdom-tree/0806-front.png)
@@ -62,6 +62,6 @@ metaAlignment: center
 
 # Contact&Links
 
-Email : seikenshibata@gmail.com  
+Email : [seikenshibata@gmail.com](seikenshibata@gmail.com)  
 github : [kanakanho](https://github.com/kanakanho)  
 twitter : [@Shiba_ao](https://twitter.com/Shiba_ao_)

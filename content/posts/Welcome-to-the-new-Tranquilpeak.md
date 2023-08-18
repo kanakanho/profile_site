@@ -2,12 +2,12 @@
 title: "ブログを始めます"
 date: 2023-05-26
 categories:
-  - report
+    - report
 tags:
-  - web
+    - web
 keywords:
-  - hugo
-  - vercel
+    - hugo
+    - vercel
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
 thumbnailImage: /img/evening_resize.jpg
@@ -38,6 +38,6 @@ metaAlignment: center
 
 # Contact&Links
 
-Email : seikenshibata@gmail.com  
+Email : [seikenshibata@gmail.com](seikenshibata@gmail.com)  
 github : [kanakanho](https://github.com/kanakanho)  
 twitter : [@Shiba_ao](https://twitter.com/Shiba_ao_)

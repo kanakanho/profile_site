@@ -2,13 +2,13 @@
 title: "技育CMAPで最優秀賞をいただきました"
 date: 2023-06-27
 categories:
-  - hackson
+    - hackson
 tags:
-  - app
-  - hackson
+    - app
+    - hackson
 keywords:
-  - 技育CAMP
-  - ハッカソン
+    - 技育CAMP
+    - ハッカソン
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
 thumbnailImage: /img/geekcamp-0617/paper_app_title.png
@@ -53,6 +53,6 @@ metaAlignment: center
 
 # Contact&Links
 
-Email : seikenshibata@gmail.com  
+Email : [seikenshibata@gmail.com](seikenshibata@gmail.com)  
 github : [kanakanho](https://github.com/kanakanho)  
 twitter : [@Shiba_ao](https://twitter.com/Shiba_ao_)

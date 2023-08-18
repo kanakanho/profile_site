@@ -2,13 +2,13 @@
 title: "オープンキャンパスに展示しました"
 date: 2023-07-15
 categories:
-  - TGS
+    - TGS
 tags:
-  - TGS
-  - design
+    - TGS
+    - design
 keywords:
-  - TGS
-  - AIT
+    - TGS
+    - AIT
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
 thumbnailImage: /img/TGS-OC/booth.jpg
@@ -40,6 +40,6 @@ metaAlignment: center
 
 # Contact&Links
 
-Email : seikenshibata@gmail.com  
+Email : [seikenshibata@gmail.com](seikenshibata@gmail.com)  
 github : [kanakanho](https://github.com/kanakanho)  
 twitter : [@Shiba_ao](https://twitter.com/Shiba_ao_)

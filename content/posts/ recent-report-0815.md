@@ -2,15 +2,15 @@
 title: "VRを触っています"
 date: 2023-08-14
 categories:
-  - report
+    - report
 tags:
-  - VR
-  - VisionPro
+    - VR
+    - VisionPro
 keywords:
-  - VR
-  - VisonPro
-  - VisionOS
-  - Xcode
+    - VR
+    - VisonPro
+    - VisionOS
+    - Xcode
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
 thumbnailImage: /img/evening_resize.jpg
@@ -47,6 +47,6 @@ VisonPro は SwiftUI での開発ができるとのことなので、iOS の勉�
 
 # Contact&Links
 
-Email : seikenshibata@gmail.com  
+Email : [seikenshibata@gmail.com](seikenshibata@gmail.com)  
 github : [kanakanho](https://github.com/kanakanho)  
 twitter : [@Shiba_ao](https://twitter.com/Shiba_ao_)

@@ -2,13 +2,13 @@
 title: "技育展の本戦への出場権を獲得しました"
 date: 2023-08-12
 categories:
-  - hackson
+    - hackson
 tags:
-  - app
-  - hackson
+    - app
+    - hackson
 keywords:
-  - 技育展
-  - ハッカソン
+    - 技育展
+    - ハッカソン
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
 thumbnailImage: /img/wisdom-tree/top.png
@@ -46,7 +46,7 @@ metaAlignment: center
 **wisdom Tree** は情報系の学びを得るためのアプリで、それぞれの情報系の単語の結びつきをたどって自分の知らない情報を見つけられます。
 
 アプリはこちらのリンク実際に触ることができます。  
-https://wisdom-tree.vercel.app/
+https://wisdomtree.vercel.app/
 
 ※現在のリンクは技育展 本戦にてブラッシュアップされたものに変わっています。
 
@@ -79,6 +79,6 @@ https://wisdom-tree.vercel.app/
 
 # Contact&Links
 
-Email : seikenshibata@gmail.com  
+Email : [seikenshibata@gmail.com](seikenshibata@gmail.com)  
 github : [kanakanho](https://github.com/kanakanho)  
 twitter : [@Shiba_ao](https://twitter.com/Shiba_ao_)

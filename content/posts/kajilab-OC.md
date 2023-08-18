@@ -2,11 +2,11 @@
 title: "オープンキャンパスに展示しました"
 date: 2023-07-16
 categories:
-  - kajilab
+    - kajilab
 tags:
-  - kajilab
+    - kajilab
 keywords:
-  - AIT
+    - AIT
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
 thumbnailImage: /img/evening_blue.jpg
@@ -26,6 +26,6 @@ metaAlignment: center
 
 # Contact&Links
 
-Email : seikenshibata@gmail.com  
+Email : [seikenshibata@gmail.com](seikenshibata@gmail.com)  
 github : [kanakanho](https://github.com/kanakanho)  
 twitter : [@Shiba_ao](https://twitter.com/Shiba_ao_)
