@@ -41,7 +41,7 @@ metaAlignment: center
 私たちは **wisdom Tree** というアプリを開発しました。  
 **wisdom Tree** は情報系の学びを得るためのアプリで、それぞれの情報系の単語の結びつきをたどって自分の知らない情報を見つけられます。  
 アプリはこちらのリンクから試せます。  
-[**wisdomTree**](https://wisdomtree.vercel.app/)  
+[**wisdomTree**](https://wisdom-tree.vercel.app/)  
 ※現在のリンクは技育展にてブラッシュアップされたものに変わっています。
 
 ![](/img/wisdom-tree/0806-front.png)
