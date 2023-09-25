@@ -46,6 +46,13 @@ metaAlignment: center
 アプリケーションはこちらからダウンロードできます（Mac 専用アプリ）  
 [ダウンロードリンク](https://github.com/SystemEngineeringTeam/geekcamp-caravan-2023-vol2)
 
+### 開発したところ
+紙を破く認識を行いました。
+Google の Teachable Machine を使い、紙を破く音をモデル化し、Tensorflow で認識をしています。
+
+Teachable Machine については今回の開発で得た知見を記事にしました
+[Teachable Machineの使い方 - kanakanho](https://qiita.com/kanakanho/items/a933c2d85f17710e6558)
+
 # 終わりに
 
 大学に入ってから本格的に情報の勉強を始めて、アウトプットがしてみたい！ということで参加したハッカソンでしたが、最優秀賞をいただけて嬉しいです。発表中、発表後の懇親会ともに好印象を持っていただけて楽しいイベントでした。  
