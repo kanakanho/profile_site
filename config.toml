@@ -42,7 +42,7 @@ startLevel = 1
 # ------
 [author]
 name = "seiken shibata"
-bio = "Welcomw to **kanakanho's world**"
+bio = "Welcome to **kanakanho's world**"
 job = "university student"
 location = "Japan/Aichi"
 # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
