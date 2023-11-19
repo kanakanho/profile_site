@@ -1,5 +1,5 @@
 ---
-title: "技育CMAPで最優秀賞をいただきました"
+title: "技育CMAPキャラバン福岡で最優秀賞をいただきました"
 date: 2023-06-27
 categories:
     - hackson
