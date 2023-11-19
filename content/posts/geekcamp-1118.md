@@ -12,7 +12,7 @@ keywords:
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
 thumbnailImage: /img/geekcamp-1118/title.png
-coverImage: /img/geekcamp-0617/evening_blue.jpg
+coverImage: /img/nagoya.jpeg
 metaAlignment: center
 ---
 
