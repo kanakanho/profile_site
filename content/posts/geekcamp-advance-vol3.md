@@ -16,7 +16,7 @@ coverImage: /img/geekcamp-0617/evening_blue.jpg
 metaAlignment: center
 ---
 
-9/2 に東京の CARTA のオフィスで開催された技育 CMAP アドバンス vol.2 に出場し、MIXI 賞（企業賞）をいただきました。
+9/2 に東京の CARTA のオフィスで開催された技育 CMAP アドバンス vol.3 に出場し、MIXI 賞（企業賞）をいただきました。
 
 <!--more-->
 
