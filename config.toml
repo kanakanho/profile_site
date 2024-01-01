@@ -13,7 +13,7 @@
 # use grunt task `build` to synchronize assets
 
 baseURL = "https://kanakanho-record.vercel.app/"
-languageCode = "en-us"
+languageCode = "ja"
 defaultContentLanguage = "ja"
 title = "kanakanho blog"
 theme = "hugo-tranquilpeak-theme"
