@@ -74,7 +74,7 @@ Unity ( XR ) , Swift ( iOS , VisionPro ) , Tauri
 
 #### デザイン系
 
-Figma
+Figma , illustrator , AfterEffect
 
 # 1 年を振り返って
 
