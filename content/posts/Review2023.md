@@ -13,7 +13,7 @@ coverImage: /img/report2023/image-dark.png
 metaAlignment: center
 ---
 
-kanakanho です。2023 の振り返りレポートを書きました。
+shibata です。2023 の振り返りレポートを書きました。
 
 <!--more-->
 
