@@ -10,7 +10,7 @@ keywords:
     - XR
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
-thumbnailImage: /img/evening_blue.jpg
+thumbnailImage: /img/XRStudyWatch/server.png
 coverImage: /img/evening_blue.jpg
 metaAlignment: center
 ---
@@ -36,8 +36,8 @@ metaAlignment: center
 
 ## 目的
 
-- 研究室の場所と活動内容を知ってもらう
-- 研究室の人と交流を促し、学生の間で縦のつながりを増やす
+-   研究室の場所と活動内容を知ってもらう
+-   研究室の人と交流を促し、学生の間で縦のつながりを増やす
 
 研究室に配属されるまえから研究を知って、自分の興味のある分野を探求していくのは学生にとって利点になる。そのために配属される研究室を検討するために調べるだけでなく、早い段階から研究室を認知できるとよい。
 
@@ -91,7 +91,7 @@ GPS と FP の 2 種類を用いる理由は、GPS が屋内での位置推定�
 ## システム構成
 
 バックエンドのシステム構成は以下の図のようになった。
-![システム構成図](/img/XRStudyWatch/system_configuration.png)
+![システム構成図](/img/XRStudyWatch/server.png)
 
 それぞれ複数の機能が絡みあって機能を提供しているため、それぞれをマイクロサービス化した。
 
@@ -109,7 +109,7 @@ MetaQuest で研究室のポスターを可視化する部分と、FP を用い�
 
 ### デモムービー
 
-{{<youtube yF1hf-PSIF8>}}
+{{<youtube 7g9YKQMvopg>}}
 
 ### 苦労した点
 
