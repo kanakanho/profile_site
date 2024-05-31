@@ -27,9 +27,11 @@ metaAlignment: center
 
 このプロダクトでは Android のモバイルと MetaQuest3 の XR , Go,Python,TS などで構成されたバックエンドで構成されています。詳細についてはシステム構成の章で説明します。
 
-# プロジェクトの概要
+## スライドでの説明はこちら
 
 {{<xr-study-watch>}}
+
+# プロジェクトの概要
 
 ## 背景
 
