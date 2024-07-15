@@ -1,5 +1,5 @@
 ---
-title: "中部地方27卒を集めるイベントを主催しました"
+title: "中部地方27卒の交流を深めるイベントを主催しました"
 date: 2024-07-12
 categories:
     - event
@@ -20,8 +20,6 @@ metaAlignment: center
 7/14 に中部地方の27卒学生同士の交流を目的としたイベント「27Tech」を主催しました！
 
 <!--more-->
-
-<!-- ![powerpoint](/img/wisdom-tree/app-top.png) -->
 
 <!-- {{< toc >}} -->
 
@@ -54,11 +52,11 @@ metaAlignment: center
 
 ## Matsuribaでの告知LT
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRkSgw2sJoH30e8R8ouRwn8nhXza8phupGygz00G08HAaC9RhlNM51nH3WQerhFultQ5dDhOPIJjWsn/embed?start=false&loop=true" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRkSgw2sJoH30e8R8ouRwn8nhXza8phupGygz00G08HAaC9RhlNM51nH3WQerhFultQ5dDhOPIJjWsn/embed?start=false&loop=true" frameborder="0" style="aspect-ratio: 16 / 9; width: 100%;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## 27Tech 進行用スライド
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSEgqPg-eFeh9VF21lfIo5hcFv61oskvJmZmd8IB4XkeWvvZaAHNgyzeVEVgiNYlhrGn6rvH0fjVKmL/embed?start=false&loop=true" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSEgqPg-eFeh9VF21lfIo5hcFv61oskvJmZmd8IB4XkeWvvZaAHNgyzeVEVgiNYlhrGn6rvH0fjVKmL/embed?start=false&loop=true" frameborder="0" style="aspect-ratio: 16 / 9; width: 100%;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 # 終わりに
 

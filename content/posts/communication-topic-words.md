@@ -42,7 +42,7 @@ metaAlignment: center
 **https://27-tech-topic-words.vercel.app/**](
 https://27-tech-topic-words.vercel.app/)
 
-<img width="400px" href="/img/communication-topic-words/app.png"/>
+<img width="400px" src="/img/communication-topic-words/app.png"/>
 
 ## 目的
 
