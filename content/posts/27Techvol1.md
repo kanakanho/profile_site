@@ -19,8 +19,6 @@ metaAlignment: center
 
 7/14 に中部地方の27卒学生同士の交流を目的としたイベント「27Tech」を主催しました！
 
-![](/img/27tech-vol1/group-photo.jpeg)
-
 <!--more-->
 
 <!-- ![powerpoint](/img/wisdom-tree/app-top.png) -->
@@ -37,6 +35,8 @@ metaAlignment: center
 27Techは、名古屋の27卒学生の交流を深め、X,Qiitaなど外部への情報発信を活発に行なっていく仲間との出会いを目的とした学生エンジニアコミュニティです。
 
 コミュニティとイベントの名前を同じ「27Tech」としています。
+
+![](/img/27tech-vol1/group-photo.jpeg)
 
 # イベント概要
 
