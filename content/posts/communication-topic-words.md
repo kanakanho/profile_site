@@ -1,15 +1,20 @@
 ---
-title: "中部地方27卒を集めるイベントを主催しました"
+title: "初対面の相手との会話の話題を提供するサイトを作成しました"
 date: 2024-07-12
 categories:
   - event
 tags:
   - event
   - app
+  - Next
+  - github
 keywords:
   - NxTEND
   - Matsuriba
   - 27Tech
+  - app
+  - Next
+  - github
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
 thumbnailImage: /img/communication-topic-words/all.png
