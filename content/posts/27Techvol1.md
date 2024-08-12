@@ -67,6 +67,10 @@ metaAlignment: center
 Thank you for 27Tech!
 ![](/img/27tech-vol1/main-slide.jpeg)
 
+# 追記：会場の様子
+
+{{<2Tech>}}
+
 # Contact&Links
 
 Email : [seikenshibata@gmail.com](seikenshibata@gmail.com)  
